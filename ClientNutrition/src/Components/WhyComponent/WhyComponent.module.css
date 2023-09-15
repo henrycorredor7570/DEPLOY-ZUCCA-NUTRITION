@@ -1,0 +1,42 @@
+.container {
+    height: 90vh; /* Establece la altura del div al 100% de la altura de la viewport */
+    width: 100%;
+    margin: 0px;
+    background-color: rgb(108, 201, 110);
+    padding: 1em;
+    }
+    .columnsContainer {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 5px; /* Espacio entre las columnas */
+      }
+      
+      .column {
+        width: calc(20% - 10px); /* El 20% garantiza cinco columnas en una fila */
+        margin-bottom: 10px; /* Espacio entre columnas */
+        padding: 5px;
+        background-color: rgb(108, 201, 110);
+      }
+      
+      /* Para que el texto se distribuya hacia abajo */
+.column p {
+        margin-top: 35px; /* Espacio entre párrafos */
+      }
+.title {
+    font-size: 60px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    }
+.h4 {
+        font-size: 20px; /* Cambia el valor a tu preferencia de tamaño de fuente */
+        text-align: left;
+        line-height: 1.8;
+      }
+.margin {
+    margin-top: 200px;
+}
+      
+      
+      
+      
+      
+      

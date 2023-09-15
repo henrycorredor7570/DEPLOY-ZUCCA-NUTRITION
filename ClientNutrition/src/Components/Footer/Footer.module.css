@@ -1,0 +1,7 @@
+.container {
+    height: 90vh; /* Establece la altura del div al 100% de la altura de la viewport */
+    width: 100%;
+    margin: 0px;
+    background-color: rgb(196, 120, 120);
+    padding: 2em;
+}

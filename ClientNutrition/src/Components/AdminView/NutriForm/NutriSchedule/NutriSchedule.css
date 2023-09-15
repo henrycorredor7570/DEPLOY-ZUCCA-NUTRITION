@@ -1,0 +1,21 @@
+.schedule-container {
+  display: flex;
+  flex-direction:row;
+  align-items: center;
+}
+
+.day-schedule {
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.hours-select {
+  width: 200px;
+}
+
+.title {
+  font-weight: bold;
+}

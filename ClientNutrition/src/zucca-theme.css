@@ -1,0 +1,9 @@
+.btn-primary {
+    background-color: #94C47D;
+    border-color: #94C47D; 
+}
+
+.btn-primary:hover {
+    background-color: #6AA84F; /* Your desired green color */
+    border-color: #6AA84F; /* Matching border color */
+}

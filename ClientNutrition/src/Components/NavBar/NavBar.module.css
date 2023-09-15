@@ -1,0 +1,20 @@
+.logo {
+    height: 40px;
+    width: 110px;
+}
+
+.profilePicture {
+    height: 35px;
+    width: 35px;
+    margin-right: 10px;
+    border-radius: 13px;
+}
+.nav-link {
+    color: #333; /* Cambia el color del texto según tu preferencia */
+    text-decoration: none; /* Quita el subrayado */
+    cursor: pointer; /* Cambia el cursor al estilo predeterminado */
+  }
+  
+  .nav-link:hover {
+    color: #555; /* Cambia el color cuando se pasa el cursor por encima */
+  }

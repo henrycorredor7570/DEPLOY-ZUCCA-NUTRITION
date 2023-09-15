@@ -1,0 +1,21 @@
+.text {
+font-size: 60px;
+background-color: rgb(220, 217, 217);
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.divConAlturaViewport {
+    height: 100vh; /* Establece la altura del div al 100% de la altura de la viewport */
+    width: 100%;
+    margin: 0px;
+    background-color: rgb(220, 217, 217);
+    padding: 1em;
+}
+.accordionh {
+    text-align: right;
+}
+.centeredImage {
+    justify-content: center;
+    margin-top: 180px; /* Ajusta el margen superior según sea necesario */
+    align-items: center;
+    width: 10%;
+  }

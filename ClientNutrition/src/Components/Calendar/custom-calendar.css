@@ -1,0 +1,70 @@
+/* Cambiar el color de fondo de los eventos */
+.rbc-event {
+  background-color: #535bf2;
+  border: none;
+}
+
+/* Cambiar el color de fondo del encabezado del día */
+/* .rbc-day-bg {
+  background-color: #f0f0f0;
+} */
+
+/* Cambiar el color del texto del título del evento */
+.rbc-event-label {
+  color: #333;
+}
+
+/* Cambiar el color del borde de los eventos */
+.rbc-event-content {
+  border-color: #ffcc00;
+}
+
+/* Cambiar el color de fondo del encabezado de la semana */
+.rbc-week-header {
+  background-color: #ddd;
+  border: none;
+}
+
+.rbc-event:hover {
+  background-color: #ddd;
+}
+
+.rbc-today {
+  background-color: #9FA1A8;
+}
+
+.rbc-row-content {
+  margin: 0;
+  height: inherit;
+}
+
+.rbc-date-cell {
+  text-align: center;
+}
+
+.rbc-date-cell {
+  transition: background-color 0.5s ease;
+}
+
+.rbc-date-cell:hover {
+  background-color: #737fc7;
+}
+
+.rbc-row-content .rbc-row{
+  margin: 0;
+  height: inherit;
+}
+
+.rbc-button-link {
+  width: 100%;
+  text-align: center;
+  position: relative;
+  font-size: 14px;
+  height: 100%;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

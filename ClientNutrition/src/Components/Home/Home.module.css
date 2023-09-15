@@ -1,0 +1,10 @@
+.text {
+    margin-top: 60px;
+}
+.divConAlturaViewport {
+    height: 90vh; /* Establece la altura del div al 100% de la altura de la viewport */
+    width: 100%;
+    margin: 0px;
+    background-color: #9FE770;
+    padding: 2em;
+    }

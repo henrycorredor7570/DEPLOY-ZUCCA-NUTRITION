@@ -1,0 +1,55 @@
+.main {
+  width: 1000px;
+  height: 700px;
+  font-weight: bold;
+  align-items: start;
+}
+
+.main .nav-link {
+    color: rgb(0, 0, 0);
+    font-size: large;
+    font-weight: bold;
+  }
+
+  .main .nav-link.active {
+    background-color: rgba(128, 128, 128, 0.525);
+  }  
+
+.nutriMain {
+  display: flex;
+  flex-direction: column;
+  padding-top: 10px;
+}
+
+.my-2 {
+  width: 210px;
+}
+
+.my-2:hover {
+  background-color:green
+}
+
+.nutriListMain {
+  display: flex;
+  flex-direction: column;
+  width: 1000px;
+  position: relative;
+  right: 27px;
+}
+
+.nutricionistasList {
+  width: 100vh;
+  min-height: 500px;
+  position: relative;
+  right: 10px;
+  background-color: rgba(0, 0, 0, 0.138);
+  border-radius: 10px;
+}
+
+.table-responsive {
+  width: inherit;
+}
+
+
+  
+

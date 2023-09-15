@@ -1,0 +1,26 @@
+.main {
+  width: 1000px;
+  height: 700px;
+  font-weight: bold;
+}
+
+.main .nav-link {
+  color: rgb(0, 0, 0);
+  font-size: large;
+  font-weight: bold;
+}
+
+.btns {
+  height: 40px;
+  width: 130px;
+  padding: 5px;
+  margin: 10px;
+  background-color: #94c47d;
+  border-color: #94c47d;
+  color: white;
+}
+
+.btns:hover {
+  background-color: #6aa150;
+  border-color: #6aa150;
+}

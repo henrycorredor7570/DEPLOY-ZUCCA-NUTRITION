@@ -1,0 +1,20 @@
+.text {
+    align-items: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    }
+.cardContainer {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 30vh; 
+        width: 100%;
+        padding: 1em;
+        margin: 0px;
+        background-color: rgb(255, 255, 255);
+        margin-right: 10px; /* Agrega margen derecho entre las tarjetas */
+        margin-left: 10px; 
+      }
+.cardContainer > div {
+        margin: 0 5em; /* Agrega espacio horizontal entre las tarjetas */
+      }
