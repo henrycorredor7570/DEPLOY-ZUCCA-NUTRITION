@@ -4,7 +4,7 @@ import iconProfile from "./iconProfile.png";
 
 export default function Cards() {
     return (
-        <div className={styles.container} id="quienes-nos-eligen">
+        <div className={styles.container} id="quienes-nos-eligen"> 
             <div className={styles.text}>
                 <div className={styles.title}>QUIENES NOS ELIGEN</div>
             </div>
